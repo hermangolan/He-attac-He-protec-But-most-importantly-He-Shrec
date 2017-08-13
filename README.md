@@ -1,2 +1,2 @@
-# he-attac-he-protec-but-most-importantly-he-shrec
+# He-attac-He-protec-But-most-importantly-he-SHREC
 Developing a game with Unity (hobby)
